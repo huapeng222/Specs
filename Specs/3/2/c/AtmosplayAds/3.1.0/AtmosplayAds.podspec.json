@@ -30,7 +30,7 @@
     "GCC_PREPROCESSOR_DEFINITIONS": "$(inherited) AtmosplayDebug=1"
   },
   "source": {
-    "http": "https://adsdk.yumimobi.com/iOS/AtmosplayAds/3.1.0_2020040501.tar.bz2"
+    "http": "https://adsdk.yumimobi.com/iOS/AtmosplayAds/3.1.0_2020041601.tar.bz2"
   },
   "platforms": {
     "ios": "8.0"

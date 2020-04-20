@@ -13,7 +13,8 @@
   },
   "platforms": {
     "ios": "8.0",
-    "osx": "10.9"
+    "osx": "10.9",
+    "watchos": "2.0"
   },
   "source": {
     "git": "https://github.com/Tencent/MMKV.git",

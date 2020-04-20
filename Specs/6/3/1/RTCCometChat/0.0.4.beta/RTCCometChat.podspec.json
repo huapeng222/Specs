@@ -12,7 +12,7 @@
   },
   "summary": "RTCCometChat used for customised calling screen",
   "source": {
-    "http": "https://library.cometchat.io/ios/v2.0/xcode11.2.1/RTCCometChat.zip"
+    "http": "https://library.cometchat.io/ios/v2.0/xcode11.2.1/RTCCometChat-beta5.zip"
   },
   "vendored_frameworks": [
     "RTCCometChat.framework",
