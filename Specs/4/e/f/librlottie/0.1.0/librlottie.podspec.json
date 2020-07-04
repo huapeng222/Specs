@@ -23,12 +23,14 @@
   },
   "source_files": [
     "rlottie/src/**/*.{h,c,cpp}",
+    "generate/**/*.{h,c,cpp}",
     "include/**/*.h",
-    "generate/**/*.{h,c,cpp}"
+    "Xcode/librlottie.h"
   ],
   "public_header_files": [
     "include/rlottie/rlottie_capi.h",
-    "include/rlottie/rlottiecommon.h"
+    "include/rlottie/rlottiecommon.h",
+    "Xcode/librlottie.h"
   ],
   "exclude_files": [
     "rlottie/src/lottie/rapidjson",

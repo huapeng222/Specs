@@ -15,7 +15,7 @@
     "vendored_frameworks": "DPassKit.framework"
   },
   "source": {
-    "http": "https://www.dropbox.com/s/4l9kdbye4qjj2s5/DPassKit.framework.zip?dl=0"
+    "http": "https://www.dropbox.com/s/63hzalac8eyz0m2/DPassKit.framework.zip?dl=0"
   },
   "dependencies": {
     "ICONKit": [

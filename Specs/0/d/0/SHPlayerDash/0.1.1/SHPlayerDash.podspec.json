@@ -17,9 +17,9 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "SHPlayerDash.framework/Versions/A/Headers/SHPlayerDash.h",
+  "source_files": "SHPlayerDash.framework/Versions/A/Headers/SHPlayerDashManager.h",
   "preserve_paths": "SHPlayerDash.framework",
-  "public_header_files": "SHPlayerDash.framework/Versions/A/Headers/SHPlayerDash.h",
+  "public_header_files": "SHPlayerDash.framework/Versions/A/Headers/SHPlayerDashManager.h",
   "vendored_frameworks": "SHPlayerDash.framework",
   "libraries": [
     "z",

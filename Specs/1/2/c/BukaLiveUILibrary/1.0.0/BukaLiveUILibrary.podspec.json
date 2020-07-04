@@ -18,12 +18,19 @@
     "git": "https://gitee.com/huaidan/BukaLiveUILibraryFramework.git",
     "tag": "1.0.0"
   },
-  "resources": [
-    "BukaLiveUILibrary.framework/resources.bundle",
-    "BukaLiveUILibrary.framework/BuKa_TZImagePickerController.bundle",
-    "BukaLiveUILibrary.framework/BKMOC.mom"
-  ],
+  "resource_bundles": {
+    "Resources1": [
+      "BukaLiveUILibrary.framework/resources.bundle"
+    ],
+    "Resources2": [
+      "BukaLiveUILibrary.framework/BuKa_TZImagePickerController.bundle"
+    ],
+    "Resources3": [
+      "BukaLiveUILibrary.framework/BKMOC.mom"
+    ]
+  },
   "vendored_frameworks": "BukaLiveUILibrary.framework",
+  "libraries": "c++",
   "requires_arc": true,
   "dependencies": {
     "BukaSDK4IOS": [
